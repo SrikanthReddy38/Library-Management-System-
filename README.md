@@ -20,10 +20,7 @@ A mini library system developed using Object-Oriented Programming in Java to man
 - `User` — Represents a user with ID and name.
 - `Library` — Handles the logic to manage books and users.
 - `Main` — Runs the program and simulates actions.
-
-## 📸 Screenshots
-(Add screenshots of your output here if required.)
-
+  
 ## ▶️ How to Run
 ```bash
 javac Main.java
